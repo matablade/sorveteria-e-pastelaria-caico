@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sorveteria e Pastelaria Caicó</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Sorveteria e Pastelaria Caicó</h1>
+        <nav>
+            <ul>
+                <li><a href="#menu-picoles">Menu de Picolés</a></li>
+                <li><a href="#menu-pasteis">Menu de Pastéis</a></li>
+                <li><a href="#menu-hamburgues">Menu de Hambúrgueres</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="menu-picoles">
+        <h2>Menu de Picolés</h2>
+        <ul>
+            <li>Picolé de Chocolate - R$ 3,00</li>
+            <li>Picolé de Morango - R$ 2,50</li>
+            <li>Picolé de Limão - R$ 2,00</li>
+        </ul>
+    </section>
+
+    <section id="menu-pasteis">
+        <h2>Menu de Pastéis</h2>
+        <ul>
+            <li>Pastel de Carne - R$ 5,00</li>
+            <li>Pastel de Queijo - R$ 4,50</li>
+            <li>Pastel de Frango - R$ 5,50</li>
+        </ul>
+    </section>
+
+    <section id="menu-hamburgues">
+        <h2>Menu de Hambúrgueres</h2>
+        <ul>
+            <li>Hambúrguer Clássico - R$ 10,00</li>
+            <li>Cheeseburger - R$ 11,00</li>
+            <li>Hambúrguer de Frango - R$ 9,50</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Sorveteria e Pastelaria Caicó. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
